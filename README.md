@@ -139,5 +139,6 @@ so:
 ```console
 $ docker-machine --github-api-token=token create -d virtualbox newbox
 ```
+test2
 
 This should eliminate any issues you've been experiencing with rate limiting.
