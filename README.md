@@ -7,6 +7,7 @@ inside your own data center. It creates servers, installs Docker on them, then
 configures the Docker client to talk to them.
 
 It works a bit like this:
+Test CI2
 
 ```console
 $ docker-machine create -d virtualbox default
